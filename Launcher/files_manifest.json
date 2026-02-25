@@ -1,14 +1,6 @@
 {
   "files": [
     {
-      "path": "cshield_bot/cshield32.dll",
-      "size": 120832
-    },
-    {
-      "path": "cshield_bot/cshield64.dll",
-      "size": 146944
-    },
-    {
       "path": "64_bot/64.dll",
       "size": 146944
     },
@@ -51,6 +43,14 @@
     {
       "path": "cshield_bot/app/sounds/v1.dat",
       "size": 3
+    },
+    {
+      "path": "cshield_bot/cshield32.dll",
+      "size": 120832
+    },
+    {
+      "path": "cshield_bot/cshield64.dll",
+      "size": 146944
     },
     {
       "path": "pvp_bot/app/.exe_name",
