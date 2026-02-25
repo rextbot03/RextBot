@@ -1,8 +1,36 @@
 {
   "files": [
     {
+      "path": "cshield_bot/cshield32.dll",
+      "size": 120832
+    },
+    {
+      "path": "cshield_bot/cshield64.dll",
+      "size": 146944
+    },
+    {
       "path": "64_bot/64.dll",
       "size": 146944
+    },
+    {
+      "path": "64_bot/app/.exe_name",
+      "size": 12
+    },
+    {
+      "path": "64_bot/app/clients/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/config/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/dll/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/sounds/v1.dat",
+      "size": 0
     },
     {
       "path": "cshield_bot/app/.exe_name",
@@ -23,14 +51,6 @@
     {
       "path": "cshield_bot/app/sounds/v1.dat",
       "size": 3
-    },
-    {
-      "path": "cshield_bot/cshield32.dll",
-      "size": 146944
-    },
-    {
-      "path": "cshield_bot/cshield64.dll",
-      "size": 120832
     },
     {
       "path": "pvp_bot/app/.exe_name",
@@ -57,30 +77,6 @@
       "size": 120832
     },
     {
-      "path": "x_bot/x.dll",
-      "size": 120832
-    },
-    {
-      "path": "64_bot/app/.exe_name",
-      "size": 12
-    },
-    {
-      "path": "64_bot/app/clients/v1.dat",
-      "size": 0
-    },
-    {
-      "path": "64_bot/app/config/v1.dat",
-      "size": 0
-    },
-    {
-      "path": "64_bot/app/dll/v1.dat",
-      "size": 0
-    },
-    {
-      "path": "64_bot/app/sounds/v1.dat",
-      "size": 0
-    },
-    {
       "path": "x_bot/app/.exe_name",
       "size": 12
     },
@@ -99,6 +95,10 @@
     {
       "path": "x_bot/app/sounds/v1.dat",
       "size": 3
+    },
+    {
+      "path": "x_bot/x.dll",
+      "size": 120832
     }
   ]
 }
