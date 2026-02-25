@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "path": "64_bot/app/clients/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/config/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/dll/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/sounds/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "x_bot/app/clients/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "x_bot/app/config/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "x_bot/app/dll/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "x_bot/app/sounds/v1.dat",
+      "size": 0
+    },
+    {
+      "path": "64_bot/app/.exe_name",
+      "size": 12
+    },
+    {
+      "path": "64_bot/u64.dll",
+      "size": 146944
+    },
+    {
+      "path": "x_bot/app/.exe_name",
+      "size": 12
+    },
+    {
+      "path": "x_bot/u32.dll",
+      "size": 120832
+    }
+  ]
+}
